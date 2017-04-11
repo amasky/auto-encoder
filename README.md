@@ -1,7 +1,7 @@
 # Unsupervised image feature learning autoencoder with Chainer  
 
 ## Jupyter notebook on nbviewer  
-[nbviewer.jupyter.org/github/amasky/auto-encoder/blob/master/auto-encoder.ipynb](http://nbviewer.jupyter.org/github/amasky/auto-encoder/blob/master/auto-encoder.ipynb)
+* [nbviewer.jupyter.org/github/amasky/auto-encoder/blob/master/auto-encoder.ipynb](http://nbviewer.jupyter.org/github/amasky/auto-encoder/blob/master/auto-encoder.ipynb)
 
 
 ## Example  
